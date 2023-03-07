@@ -73,4 +73,5 @@ and ongoing learning. By following this beginner roadmap, you can start your jou
 - https://workshops.aws/
 - https://aws.amazon.com/architecture/back-to-basics
 - https://youtu.be/r4YIdn2eTm4 
-- @Techwithlucy
+- @Techwithlucy - Youtube channel
+- @TechWorld with Nana - Youtube channel
